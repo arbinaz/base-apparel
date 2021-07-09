@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-image: url(./bg-pattern-desktop.svg);
+}
+/* .logo1{
+    margin-top: 20px;
+} */
+    
+
+.head{
+    
+    margin-left: 13px;
+    margin-right: 37px;
+    
+    margin-bottom: 40px;
+    font-size: 33px;
+    text-align: left;
+   
+}
+
+span{
+    color: rgb(168, 75, 8);
+}
+.mid {
+    
+    font-weight: bolder;
+    font-size: 25px;
+    line-height:40px ;
+    font-family: sans-serif;
+    color:rgb(168, 75, 8) ;
+}
+.inp{
+    margin-right: 50px;
+}
+.inp input{
+    width: 354px;
+    height: 36px;
+    border-radius: 18px;
+    border: 2px solid black;
+    font-family: cursive;
+    
+    /* margin-right: 50px; */
+}
+
+
+.arricon img{  
+    width: 60px;
+    height: 34px;
+    border-radius: 18px;
+    position: relative;
+    left: 350px;
+    top: -35px;
+    margin-left: -57px;
+}
+
+
+
+.logo2  img{
+    float: right;
+    
+    height: 100vh;
+    width: 40%;
+    object-fit: cover;
+}
+
+.contain{
+    margin-left: 50px;
+}
